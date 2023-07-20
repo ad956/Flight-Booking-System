@@ -24,6 +24,12 @@ Upon logging in, the user is presented with various modules to facilitate the fl
 user can efficiently handle the booking process. By utilizing technologies such as C language, structures, file pointers, and .txt files, the system
 ensures effective data management and enhances the overall efficiency of flight bookings.
 
+# Video
+
+https://github.com/ad956/Flight-Booking-System/assets/85487906/f3615ae3-9376-438e-b09f-5b23264d5539
+
+ 
+
 # Installation
 
 <b>
