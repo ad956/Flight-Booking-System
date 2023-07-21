@@ -33,6 +33,7 @@ https://github.com/ad956/Flight-Booking-System/assets/85487906/f3615ae3-9376-438
 # Installation
 
 <b>
-No setup required. <br/>
-Download the executable file FBS.exe and run it !! 
+  Download the code and run it in Turbo C++.
+<!-- No setup required. <br/> -->
+<!-- Download the executable file FBS.exe and run it !!  -->
 </b>
